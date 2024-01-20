@@ -6,3 +6,9 @@ public class Firstclass
 
          System.out.println("Done");
       }
+
+public String venkat(int a){
+
+
+   return a;
+}
