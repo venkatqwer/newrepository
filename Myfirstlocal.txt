@@ -1,0 +1,8 @@
+public class Firstclass
+   {
+
+
+        public void first(){
+
+         System.out.println("Done");
+      }
